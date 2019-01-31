@@ -1,0 +1,38 @@
+form {
+  border: 3px solid #f1f1f1;
+}
+
+
+.user{
+	
+}
+
+
+button {
+  background-color: #0a1bd8;
+  color: white;
+  padding: 18px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 35%;
+  center;
+}
+
+button:hover {
+  opacity: 1;
+}
+
+
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+}
+
+.container {
+ 
+ justify-content: center;
+
+ 
+ 
+}
