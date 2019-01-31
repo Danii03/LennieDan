@@ -3,7 +3,7 @@ body
 	border: 5px solid black;
 	margin: 1% auto;
 	width: 30cm;
-	min-height: 27.9cm;
+	min-height: 40cm;
 	box-shadow: -6px 6px 12px solid black;
 	padding: 2cm 2.5cm;
 	font-family: Roboto Condensed ;
@@ -43,14 +43,13 @@ a.Produkte:active
     padding: 0;
     margin: 0;
     list-style: none;
-
     display: flex;
 }
 
 
 .bild
  {
-    background: ;
+    background:  ;
     margin: 5px;
     width: 10cm;
     height: 150px;
@@ -65,7 +64,7 @@ a.Produkte:active
 
 .container-table
  {
-    background: ;
+    background:  ;
     margin: 5px;
     width: 10cm;
     height: 150px;
@@ -88,7 +87,7 @@ a.Produkte:active
 
 table
 {
-	width: 85%;
+	width: 90%;
 	margin-bottom: 5px;
 	text-align: left;
     border-collapse: collapse;
@@ -121,18 +120,16 @@ button
 
 .item
 {
-	background: ;
+	background:  ;
     margin: 5px;
     width: 10cm;
     height: 150px;
     margin-top: 0px;
-
     line-height: 150px;
     color: white;
     font-weight: bold;
     font-size: 3cm;
-    text-align: right; 
-	
+    text-align: right; 	
 }
 
 .
@@ -167,29 +164,142 @@ button:hover
 }
 
 
-.Hauptzeile{
-	background-color: green;
+.container-produkte1
+{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+	display: flex; 
+	padding: 1cm;
+	margin-top: 1cm;
 }
-
-
-
-.flex-container {
-  display: flex;
-  justify-content: center;
-  
+.top-produkte1
+{
+	background: ;
+    margin: 5px;
+    width: 500px;
+    height: 150px;
+    margin-top: 0px;
+    line-height: 150px;
+    color: white;
+    font-weight: bold;
+    font-size: 3cm;
+    text-align: center; 
 }
-
-.flex-container < div {
-  background-color: #f1f1f1;
-  width: 100px;
-  margin: 10px;
-  text-align: center;
-  line-height: 75px;
-  font-size: 30px;
+.Ipad2017
+{
+	width: 350px;
+	height: 350px;
 }
-
-.container-produkte {
-	display: flex;
-	flex-direction: rows;
+.Ipad2019
+{
+	width: 350px;
+	height: 400px;
+}
+.MacBook
+{
+	width: 350px;
+	height: 350px;
+}
+.container-produkte2
+{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+	display: flex; 
+	margin-top: 7cm;
+}
+.top-produkte2
+{
+	background: ;
+    margin: 2px;
+    width: 500px;
+    height: 150px;
+    margin-top: 10px;
+    line-height: 150px;
+    color: white;
+    font-weight: bold;
+    font-size: 3cm;
+    text-align: center; 
 	
+}
+.Iphonexsmax
+{
+	width: 325px;
+	height: 325px;
+}
+.Iphonexs
+{
+	width: 350px;
+	height: 350px;
+}
+.MacBookPro1
+{
+	width: 325px;
+	height: 325px;
+}
+.MacBookPro2
+{
+	width: 325px;
+	height: 325px;
+}
+.Samsunga9
+{
+	width: 275px;
+	height: 300px;
+}
+.Samsungs9
+{
+	width: 360px;
+	height: 340px;
+}
+.Galaxytabs4
+{
+	width: 350px;
+	height: 350px;
+}
+.Galaxytabs3
+{
+	width: 250px;
+	height: 325px;
+}
+.Galaxywatch
+{
+	width: 250px;
+	height: 250px;
+}
+.Galaxywatch2
+{
+	width: 325px;
+	height: 275px;
+}
+.OmenLaptop15
+{
+	width: 350px;
+	height: 350px;
+}
+.OmenLaptop17
+{
+	width: 350px;
+	height: 300px;
+}
+.Omen880
+{
+	width: 250px;
+	height:200px;
+}
+.Omenx
+{
+	width: 350px;
+	height: 300px;
+}
+.Envyx360
+{
+	width: 350px;
+	height: 300px;
+}
+.Spectrenotebook
+{
+	width: 350px;
+	height: 300px;
 }
