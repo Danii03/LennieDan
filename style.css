@@ -11,7 +11,8 @@ body
 	background: ;
 }
 
-.BildMST
+
+.MSTLogo
 {
 	height: 170px;
 	width: 220px;
@@ -42,14 +43,14 @@ a.Produkte:active
     padding: 0;
     margin: 0;
     list-style: none;
-	background: white;
+
     display: flex;
 }
 
 
 .bild
  {
-    background: tomato ;
+    background: ;
     margin: 5px;
     width: 10cm;
     height: 150px;
@@ -64,7 +65,7 @@ a.Produkte:active
 
 .container-table
  {
-    background: tomato ;
+    background: ;
     margin: 5px;
     width: 10cm;
     height: 150px;
@@ -77,13 +78,20 @@ a.Produkte:active
     text-align: center;  
 }
 
+.container-produkte
+{
+	margin:5px;
+	width:10cm;
+	height:150px;
+	margin-top:0px;
+}
+
 table
 {
 	width: 85%;
 	margin-bottom: 5px;
 	text-align: left;
     border-collapse: collapse;
-
 }
  
 th 
@@ -113,7 +121,7 @@ button
 
 .item
 {
-	background: tomato ;
+	background: ;
     margin: 5px;
     width: 10cm;
     height: 150px;
@@ -159,3 +167,29 @@ button:hover
 }
 
 
+.Hauptzeile{
+	background-color: green;
+}
+
+
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  
+}
+
+.flex-container < div {
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}
+
+.container-produkte {
+	display: flex;
+	flex-direction: rows;
+	
+}
