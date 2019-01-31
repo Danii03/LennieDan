@@ -1,0 +1,260 @@
+body
+{
+	border: 5px solid black;
+	margin: 1% auto;
+	width: 30cm;
+	min-height: 27.9cm;
+	box-shadow: -6px 6px 12px solid black;
+	padding: 2cm 2.5cm;
+}
+
+
+.MSTLogo
+{
+	height: 170px;
+	width: 220px;
+}
+a.Produkte:link
+{
+   color: #000000;
+   text-decoration: none;
+}
+a.Produkte:visited
+{
+   color: #000000;
+   text-decoration: none;
+}
+a.Produkte:hover
+{
+   color: #000000;
+   text-decoration: none;
+}
+a.Produkte:active
+{
+   color: #000000;
+   text-decoration: none;
+}
+
+.container
+ {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+}
+
+
+.bild
+ {
+    background:  ;
+    margin: 5px;
+    width: 10cm;
+    height: 150px;
+    margin-top: 0px;
+
+    line-height: 150px;
+    color: white;
+    font-weight: bold;
+    font-size: 3cm;
+    text-align: left;  
+}
+
+.container-table
+ {
+    background:  ;
+    margin: 5px;
+    width: 10cm;
+    height: 150px;
+    margin-top: 0px;
+
+    line-height: 150px;
+    color: white;
+    font-weight: bold;
+    font-size: 3cm;
+    text-align: center;  
+}
+
+.container-produkte
+{
+	margin:5px;
+	width:10cm;
+	height:150px;
+	margin-top:0px;
+}
+
+table
+{
+	width: 90%;
+	margin-bottom: 5px;
+	text-align: left;
+    border-collapse: collapse;
+}
+ 
+th 
+{
+	background: #ccc;
+}
+
+th
+{
+	border: 1px solid #000000;
+	padding: 5px 0 5px 10px;
+}
+
+
+
+button
+{
+  background-color: #111e6c;
+  color: white;
+  padding: 8px 1px;
+  margin: 0px 0;
+  border: none;
+  cursor: pointer;
+  width: 25%;
+	text-align: center;  
+}
+
+.item
+{
+	background:  ;
+    margin: 5px;
+    width: 10cm;
+    height: 150px;
+    margin-top: 0px;
+    line-height: 150px;
+    color: white;
+    font-weight: bold;
+    font-size: 3cm;
+    text-align: right; 	
+}
+
+.
+
+form 
+{
+  border: 3px solid #f1f1f1;
+}
+
+
+button:hover
+{
+	
+ opacity: 1;
+ 
+}
+
+
+.imgcontainer 
+{
+	
+  text-align: center;
+  margin: 24px 0 12px 0;
+  
+}
+
+.container-anmeldung
+{
+ 
+ justify-content: center;
+ 
+}
+
+
+.container-produkte1
+{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+	display: flex; 
+	padding: 1cm;
+	margin-top: 1cm;
+}
+.top-produkte1
+{
+	background: tomtato ;
+    margin: 5px;
+    width: 500px;
+    height: 150px;
+    margin-top: 0px;
+    line-height: 150px;
+    color: white;
+    font-weight: bold;
+    font-size: 3cm;
+    text-align: center; 
+}
+.Ipad
+{
+	width: 350px;
+	height: 350px;
+}
+.IphoneXS
+{
+	width: 320px;
+	height: 320px;
+}
+.MacBook
+{
+	width: 350px;
+	height: 350px;
+}
+
+.container-produkte2
+ {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+	display: flex;
+}
+
+
+.top-produkte2
+ {
+    background: ;
+    margin: 5px;
+    width: 600px;
+    height: 150px;
+    margin-top: 250px;
+    line-height: 150px;
+    color: white;
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center;  
+ }
+ .ASUSRog
+ {
+	width: 370px;
+	height: 370px;	 
+ }
+ .HPOmen
+ {
+	width: 430px;
+	height: 350px;
+ }
+ .HPSpectre
+ {
+	width: 320px;
+	height: 260px; 
+ }
+ .container-rahmen
+ {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+	display: flex;
+ }
+ .rahmen1
+{
+    background: tomato;
+	border: 5px solid black;
+	margin: 1% auto;
+	width: 30cm;
+	min-height: 27.9cm;
+	box-shadow: -6px 6px 12px solid black;
+	padding: 2cm 2.5cm;
+}
+.top-produkte3
+{
+	
+}
+ 
